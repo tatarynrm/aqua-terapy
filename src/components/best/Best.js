@@ -15,9 +15,9 @@ const Best = () => {
                 <p>Jeeps</p>
             </div>
             <div className="container">
-                <img src={Car1} alt="" />
-                <img src={Car2} alt="" />
-                <img src={Car3} alt="" />
+                <img src={Car1} alt="car" />
+                <img src={Car2} alt="car" />
+                <img src={Car3} alt="car" />
             </div>
             <button className='btn'>View All</button>
         </div>

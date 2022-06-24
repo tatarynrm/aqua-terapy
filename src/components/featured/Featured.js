@@ -11,11 +11,11 @@ const Featured = () => {
             <h1 className='featured-text'>Top Featured Listings</h1>
             <p className='featured-text'>Selected listings by City,State & Zip based on views.</p>
             <div className="container">
-                <img src={Sale1} alt="" />
-                <img className='order-1' src={Sale2} alt="" />
-                <img src={Sale3} alt="" />
-                <img src={Sale4} alt="" />
-                <img src={Sale5} alt="" />
+                <img src={Sale1} alt="car" />
+                <img className='order-1' src={Sale2} alt="car" />
+                <img src={Sale3} alt="car" />
+                <img src={Sale4} alt="car" />
+                <img src={Sale5} alt="car" />
                 <div className='span-3 img-details'>
                     <div className="top">
                         <h2> 123 Acme St. Dallas,TX</h2>
